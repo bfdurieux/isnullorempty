@@ -1,0 +1,15 @@
+{
+  "name": "isnullorempty",
+  "version": "1.0.0",
+  "description": "This is my isNullOrEmpty. There are many like it, but this one is mine.",
+  "main": "index.js",
+  "files": ["/dist"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bfdurieux/isnullorempty.git"
+  },
+  "private": true
+}

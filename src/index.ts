@@ -1,1 +1,1 @@
-export {isNullOrEmpty} from './isNullOrEmpty';
+export * from './isNullOrEmpty';
